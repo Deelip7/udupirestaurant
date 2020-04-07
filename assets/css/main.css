@@ -3757,7 +3757,7 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
 }
 
 #main > * {
-  padding: 4rem 4rem 2rem 4rem;
+  padding: 2rem 4rem 2rem 4rem;
   border-top: solid 2px #eeeeee;
   margin: 0;
 }
@@ -4837,6 +4837,7 @@ h1 {
   color: black;
   text-align: center;
   font-size: 1.5rem;
+  padding-bottom: 2rem !important;
   background-color: rgba(214, 214, 214, 0.743);
 }
 
